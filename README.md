@@ -9,3 +9,11 @@ The goal here is simple: to add some front-end skills to my back-end toolkit �
 ---
 
 Thanks for stopping by! 😊 Happy coding! 💻✨
+
+## Project Index 📂
+
+Here are the links to the index files for each project:
+
+- [Project 1 - HTML Headings](./html_headings/index.html)
+
+Feel free to explore and see what I've been working on! 🎨✨
